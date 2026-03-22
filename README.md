@@ -57,16 +57,16 @@ driver-drowsiness-detection/
 ## 📷 Output Screenshots
 
 ### 🟢 Active State
-![Active](screenshots/active.png)
+![Active](active.png)
 
 ### ⚠️ Warning State
-![Warning](screenshots/warning.png)
+![Warning](warning.png)
 
 ### 🚨 Alarm State
-![Alarm](screenshots/alarm.png)
+![Alarm](alarm.png)
 
 ### 😮 Yawn Detection
-![Yawn](screenshots/yawn.png)
+![Yawn](yawn.png)
 
 ---
 

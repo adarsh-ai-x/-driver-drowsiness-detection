@@ -60,7 +60,7 @@ driver-drowsiness-detection/
 ![Active](working%20screenshots/active.png)
 
 ### ⚠️ Warning State
-![Warning](working Screenshots/active.png)
+![Warning](workingScreenshots/active.png)
 
 ### 🚨 Alarm State
 ![Alarm](alarm.png)

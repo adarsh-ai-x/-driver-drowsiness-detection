@@ -52,23 +52,6 @@ driver-drowsiness-detection/
 ├── yawn.wav  
 ├── screenshots/  
 
----
-
-## 📷 Output Screenshots
-
-### 🟢 Active State
-![Active](working%20screenshots/active.png)
-
-### ⚠️ Warning State
-![Warning](workingScreenshots/active.png)
-
-### 🚨 Alarm State
-![Alarm](alarm.png)
-
-### 😮 Yawn Detection
-![Yawn](yawn.png)
-
----
 
 ## 🚀 Future Scope
 - AI/Deep Learning integration  
